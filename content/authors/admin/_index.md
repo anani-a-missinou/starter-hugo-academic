@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anani A. MISSINOU
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Postdoctoral Researcher on Genetic, Genomic & Bio-informatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Agro Institute of Rennes-Angers
+    url: https://www.institut-agro-rennes-angers.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Plant ecological interactions
+  - Functional Metabolomic and Genomic 
+  - Metabolic Pathways
+  - Metabolic Networks and Pathways
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Genetics, Genomics & Bio-informatics
+      institution: Agro Institute of Rennes-Angers, France
+      year: 2022
+    - course: M.Sc. degree in Genomics and Environment
+      institution: University of Paris Saclay, France
+      year: 2016
+    - course: B.Sc. degree in Cell Biology and Physiology
+      institution: University of Bretagne Occidentale, France
+      year: 2015
+    - course: B.Sc. degree in Biology and Animal Physiology 
+      institution: University of Lomé, Togo
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
