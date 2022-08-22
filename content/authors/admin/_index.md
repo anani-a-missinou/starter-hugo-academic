@@ -19,9 +19,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Plant ecological interactions
-  - Functional Metabolomic and Genomic 
+  - Functional Metabolomics and Genomics 
   - Metabolic Pathways
   - Metabolic Networks and Pathways
+  - Bioinformatics
 
 # Education to show in About widget
 education:
@@ -74,8 +75,12 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anani A. MISSINOU is a Senior Postdoctoral Researcher at Institute for Genetics, Environment and Plant Protection (IGEPP). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His primary research interests lie in understanding genetic determinants of plants-specialized metabolism, interconnected metabolic pathways, and their regulation under stress, especially in crop plants like Brassica species.
+
+The incredible complexity of a plant's specialized metabolism calls for integrative research strategies such as combining innovative plant genotyping and phenotyping pipelines with robust data analysis and modeling tools. My belief is that combining computational tools with the latest biological knowledge will open new horizons for plant research. Thus, I am interested in functional metabolomic and functional genomic approaches that make sense between genome, phenome, and metabolome.
+
+Since July 2022, he will begin a Post-doctoral fellowship on a project aiming uncovering the defense metabolites in Oilseed rape  Introgression Lines valuable for functional Genomics and Breeding of Brassica napus (Diversity, Evolution, and genomics of BIotic interactions team at IGEPP).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
