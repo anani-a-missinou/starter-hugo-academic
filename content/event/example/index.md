@@ -1,19 +1,18 @@
 ---
-title: Example Talk
+title: Mass Spectrometry Imaging (MALDI-MSI) and LC-MS/MS reveal the spatial distribution of metabolites in response to Leptosphaeria maculans infection in stems of Brassica napus
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url:https://www.irc2019-berlin.com/press/research-offers-new-ideas-international-oilseed-rape-cultivation
 
-location: Wowchemy HQ
+location: 
 address:
   street: 450 Serra Mall
-  city: Stanford
+  city: Berlin
   region: CA
-  postcode: '94305'
-  country: United States
+  postcode: '10117'
+  country: Germany
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Leptosphaeria maculans causes stem canker, which is among the most important diseases of oilseed rape (Brassica napus) in Europe. Previous genetic studies have identified series of Quantitative Trait Loci (QTL) involved in quantitative resistance. Resistance QTL contribute to the reduction of crown necrosis at late stem stage (Brun et al. 2010). Cellular mechanisms underlying both basal and quantitative resistance to stem canker are however still largely unknown. In the present work, we used untargeted metabolomic approaches to investigate the cellular responses to stem infection in two oilseed rape varieties, 'Darmor' (partially resistant) and 'Bristol' (susceptible) inoculated with the isolate JN2.  We used direct analysis of tissues by Matrix-Assisted Laser Desorption/Ionization Mass Spectrometry Imaging (MALDI-MSI), to get access to hundreds of biomolecules analysis while maintaining tissue integrity and molecule localization (Muller, T. et al. 2011). As a complement, a metabolomic approach was conducted using Liquid Chromatography separation coupled with High Resolution Mass Spectrometry.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,8 +23,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
+authors: [Anani A. Missinou (1),  Anne Levrel (1), Mélanie Lagarrigue-Reboutier (2), Régis Lavigne (2), Yann Guitton (3), Nathalie Marnet (1), Régine Delourme (1), Maria Manzanares-Dauleux (1), Antoine Gravot (1)]
+tags: [(1) IGEPP, INRA, AGROCAMPUS OUEST, Univ. Rennes, Le Rheu, France (2) Protim platform, IRSET - INSERM U1085, Rennes, France (3) Corsaire platform, ONIRIS - LABERCA, Nantes, France]
 
 # Is this a featured talk? (true/false)
 featured: false
