@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Genetics, Genomics & Bio-informatics
+    - course: PhD in Genetics, Genomics & Bio-informatics
       institution: Agro Institute of Rennes-Angers, France
       year: 2022
     - course: M.Sc. degree in Genomics and Environment
