@@ -6,7 +6,7 @@ event_url:https://www.irc2019-berlin.com/press/research-offers-new-ideas-interna
 
 location: 
 address:
-  street: 450 Serra Mall
+  street: Claire-Waldoff-Straße 7
   city: Berlin
   region: CA
   postcode: '10117'
