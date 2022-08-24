@@ -6,7 +6,7 @@ title: Anani A. MISSINOU
 superuser: true
 
 # Role/position/tagline
-role: Junior Postdoctoral Researcher on Genetics, Genomics & Bio-informatic
+role: Postdoctoral Researcher on Genetics, Genomics & Bio-informatic
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -75,7 +75,7 @@ email: 'anani.a.missinou@gmail.com'
 highlight_name: true
 ---
 
-Anani A. MISSINOU is a Junior Postdoctoral Researcher at Institute for Genetics, Environment and Plant Protection (IGEPP). 
+Anani A. MISSINOU is a Postdoctoral Researcher at Institute for Genetics, Environment and Plant Protection (IGEPP). 
 
 His primary research interests lie in understanding genetic determinants of plants-specialized metabolism, interconnected metabolic pathways, and their regulation under stress, especially in crop plants like Brassica species.
 
