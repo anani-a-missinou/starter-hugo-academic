@@ -6,7 +6,7 @@ title: Anani A. MISSINOU
 superuser: true
 
 # Role/position/tagline
-role: Junior Postdoctoral Researcher on Genetics, Genomics & Bio-informatics
+role: Junior Postdoctoral Researcher on Genetics, Genomics & Bio-informatic
 
 # Organizations/Affiliations to show in About widget
 organizations:
